@@ -22,6 +22,7 @@ Pre-requisites:
 
 command: 
 pip install -r requirements.txt (To install dependencies)
+
 python app.py
 
 2)Run the following code inside client folder
