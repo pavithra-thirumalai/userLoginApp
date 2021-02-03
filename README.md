@@ -28,4 +28,5 @@ python app.py
 2)Run the following code inside client folder
 
 npm install 
+
 npm start
