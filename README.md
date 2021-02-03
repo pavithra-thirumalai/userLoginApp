@@ -16,10 +16,12 @@ Pre-requisites:
   *Python Flask,Flask-cors
   *NodeJS
   *SQLite3
+  
 1)Run app.py file inside server folder to make flask server up and running
 command: 
 pip install -r requirements.txt (To install dependencies)
 python app.py
+
 2)Run the following code inside client folder
 npm install 
 npm start
