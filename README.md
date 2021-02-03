@@ -18,14 +18,14 @@ Pre-requisites:
   *NodeJS
   *SQLite3
   
-1)Run app.py file inside server folder to make flask server up and running
+1)Open terminal inside server folder and run the fllowing code
 
 command: 
 pip install -r requirements.txt (To install dependencies)
 
 python app.py
 
-2)Run the following code inside client folder
+2)Open terminal inside client folder and run the fllowing code
 
 npm install 
 
