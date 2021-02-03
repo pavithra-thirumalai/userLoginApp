@@ -11,6 +11,7 @@ Develop a ReactJS frontend UI for user creation, updates and login
 • Using User APIs, create a ReactJS frontend • Develop components for user registration and login • Use promises and error handling where required 
 
 To Run the app:
+
 Pre-requisites:
   *Python
   *Python Flask,Flask-cors
@@ -18,10 +19,12 @@ Pre-requisites:
   *SQLite3
   
 1)Run app.py file inside server folder to make flask server up and running
+
 command: 
 pip install -r requirements.txt (To install dependencies)
 python app.py
 
 2)Run the following code inside client folder
+
 npm install 
 npm start
